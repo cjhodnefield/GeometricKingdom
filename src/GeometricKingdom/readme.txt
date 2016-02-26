@@ -48,5 +48,5 @@ CREDITING
 My classmate Scott Fennelly let me use one of his sprite designs
 My brother Scott Hodnefield also helped me design a few other sprites with graph paper
 
-Most of my extra sounds were taken from this source:
+My extra sounds were taken from this source:
 http://opengameart.org/content/100-plus-game-sound-effects-wavoggm4a
